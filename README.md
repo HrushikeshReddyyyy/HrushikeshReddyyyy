@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **My experience in data analysis, building predictive models, cloud computing, or my recent projects involving data visualization and dashboard creation.**
 
-- 📫 How to reach me **HrushikeshReddy_Thatigotla@student.uml.edu**
 
 - ⚡ Fun fact **As part of my final year project during the COVID-19 pandemic, I created a Face Mask Detection system, merging my passion for technology with practical problem-solving to address a critical global issue.**
 
