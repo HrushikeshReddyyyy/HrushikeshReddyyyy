@@ -1,7 +1,6 @@
 <!-- FUTURISTIC CYBERPUNK HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=HRUSHIKESH%20REDDY%20THATIGOTLA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20ENGINEER%20%E2%80%A2%20ML%20ARCHITECT%20%E2%80%A2%20DATA%20SCIENTIST&descSize=20&descAlignY=55" width="100%"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F7FF,30:7B2FBE,70:FF1CF7,100:00F7FF&text=HRUSHIKESH%20REDDY%20THATIGOTLA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20ML%20ARCHITECT%20%E2%80%A2%20DATA%20SCIENTIST&descAlignY=55&descSize=18&animation=fadeIn&section=header" width="100%"/></div>
 
 <!-- GLITCH TYPING EFFECT -->
 <p align="center">
